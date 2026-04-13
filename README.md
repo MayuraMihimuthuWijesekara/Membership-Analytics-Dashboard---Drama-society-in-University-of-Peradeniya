@@ -5,6 +5,19 @@ A real-time Power BI dashboard for Drama Society in University of Peradeniya to 
 This project is a real-time data analytics dashboard created by Power BI for the Drama Society at the University of Peradeniya. The dashboard provides deep insights into membership demographics, talents, and engagement metrics to improve decision-making.
 
 # 📊 Dashboard Preview
+## Dashboard Preview
+![Dashboard_Preview](Power_BI_Dashboard_1.png)
+![Dashboard_Preview](Power_BI_Dashboard_2.png)
+
+## Model view
+![Model view](Power_BI_model_view.png)
+
+
+## Demo Video
+
+https://github.com/user-attachments/assets/16483f7e-03c4-4703-9964-5379379f3153
+
+
 
 
 # 🚀Key Features
